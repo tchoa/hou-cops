@@ -1,0 +1,11 @@
+{
+	"load_package_once": true,
+	"env": [
+		{
+			"HOUDINI_PATH":{
+				"value": "${HOUDINI_USER_PREF_DIR}/factocode_cops",
+				"method": "append"
+			}
+		}
+	]
+}
